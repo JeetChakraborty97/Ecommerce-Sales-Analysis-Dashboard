@@ -1,5 +1,7 @@
 # Ecommerce-Sales-Analysis-Dashboard
 
+<img width="1621" height="820" alt="Ecommerce Sales Analysis Dashboard SS" src="https://github.com/user-attachments/assets/623ce007-d5db-4850-ad0b-f6ad9855eab3" />
+
 # Overview 
 
 The E-Commerce Sales Analysis Dashboard was developed for GlobalMart, a fictional U.S.-based retail enterprise operating across multiple states and customer segments. The initiative addresses fluctuations in sales, profitability, and product performance observed over multiple years. Its primary purpose is to provide a centralized analytical platform that reveals actionable insights into revenue, profit trends, category contributions, and regional performance — enabling business leaders to make informed, data-driven strategic decisions. 

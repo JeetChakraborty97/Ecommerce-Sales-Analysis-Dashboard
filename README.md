@@ -1,4 +1,4 @@
-# Ecommerce-Sales-Analysis-Dashboard
+# Ecommerce Sales Analysis Dashboard (Excel)
 
 <img width="1621" height="820" alt="Ecommerce Sales Analysis Dashboard SS" src="https://github.com/user-attachments/assets/623ce007-d5db-4850-ad0b-f6ad9855eab3" />
 
